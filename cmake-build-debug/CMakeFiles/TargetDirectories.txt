@@ -1,0 +1,3 @@
+C:/Users/qxand/Documents/COP3502C/projects/minesweeper/cmake-build-debug/CMakeFiles/minesweeper.dir
+C:/Users/qxand/Documents/COP3502C/projects/minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/qxand/Documents/COP3502C/projects/minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

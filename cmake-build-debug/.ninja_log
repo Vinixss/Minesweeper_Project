@@ -1,0 +1,16 @@
+# ninja log v5
+1674	4674	7133167702716651	minesweeper.exe	90b896d58f3593a2
+0	10	0	clean	b5392d6d14ed9bdb
+6	1553	7133164242278696	CMakeFiles/minesweeper.dir/src/Wind.cpp.obj	1a69ed6a717888e0
+1	1557	7133164242278696	CMakeFiles/minesweeper.dir/src/main.cpp.obj	659de6f8cd77d7ff
+11	1588	7133164242637830	CMakeFiles/minesweeper.dir/src/Tiles.cpp.obj	8b6a71dfd9c73c0e
+3	1525	7133167671315726	CMakeFiles/minesweeper.dir/grading/main.cpp.obj	c401819dd785809d
+10	1516	7133167671225971	CMakeFiles/minesweeper.dir/grading/Wind.cpp.obj	b771af8399d4295d
+33	1673	7133167672809042	CMakeFiles/minesweeper.dir/grading/Tiles.cpp.obj	16d0a03223af23a7
+3	1927	7133172903821934	CMakeFiles/minesweeper.dir/src/main.cpp.obj	659de6f8cd77d7ff
+14	1935	7133172903921680	CMakeFiles/minesweeper.dir/src/Wind.cpp.obj	1a69ed6a717888e0
+21	2140	7133172905976178	CMakeFiles/minesweeper.dir/src/Tiles.cpp.obj	8b6a71dfd9c73c0e
+2140	3728	7133172920766627	minesweeper.exe	fa1a25d2aa6c37b6
+3	1172	7133174963961984	CMakeFiles/minesweeper.dir/src/main.cpp.obj	659de6f8cd77d7ff
+10	1374	7133174965976587	CMakeFiles/minesweeper.dir/src/Tiles.cpp.obj	8b6a71dfd9c73c0e
+1375	2820	7133174980358138	minesweeper.exe	fa1a25d2aa6c37b6
